@@ -1,5 +1,7 @@
 # Ricky Wiki (no offense Morty...)
 
+[LIVE version] (https://61a43fea14ce8a00079bfe56--awesome-wilson-815943.netlify.app/)
+
 ### The 'React with API' assignment
 
 I've decided to recreate the Rick and Morty Wiki. I thought that this project will cover most of interesting and basic topics like usage of States, Effects, Fetching data, handling form inputs, pagination, react router and styling.
