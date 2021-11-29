@@ -1,0 +1,43 @@
+.container {
+    display:flex;
+    justify-content: center;
+}
+
+ul {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    display : inline-block;
+    cursor: pointer !important;
+    
+}
+
+.prev-next {
+    border:1px white solid;
+    padding:8px 24px;
+    margin : 16px;
+    color: white;
+    background-color:rgba(73, 73, 73, 0.747);
+    border-radius: 8px;
+}
+.active-page {
+    cursor:default;
+    overflow: hidden;
+    color: white;
+    background-color:rgba(73, 73, 73, 0.747);
+    border:none;
+
+}
+.invisible {
+    display: none;
+}
+.page-numbers {
+    padding:8px;
+    border: rgba(73, 73, 73, 0.747) 1px solid;
+    border-radius: 8px;
+    margin: 8px;
+}
+
