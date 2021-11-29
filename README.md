@@ -1,6 +1,6 @@
 # Ricky Wiki (no offense Morty...)
 
-[LIVE version] (https://61a43fea14ce8a00079bfe56--awesome-wilson-815943.netlify.app/)
+[LIVE version] (https://rickywiki.netlify.app/)
 
 ### The 'React with API' assignment
 
