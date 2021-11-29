@@ -29,11 +29,11 @@
 
 .card-container-big {
     width: 400px;
-    height: auto;
+    height: 660px;
 }
 .badge-big {
     position:absolute;
-    top:-20px;
+    top:-80px;
     width: 120%;
     height: 36px;
     text-transform: uppercase;
